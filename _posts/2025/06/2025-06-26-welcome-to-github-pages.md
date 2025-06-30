@@ -5,7 +5,7 @@ summary: "getting moved from wordpress to github"
 author: samui
 date: '2025-06-26'
 category: [daily, github]
-thumbnail: /images/2025/06/changes.jpg
+thumbnail: images/2025/06/changes.jpg
 keywords: github, jeykyll
 permalink: /blog/welcome-to-github-pages/
 usemathjax: true
