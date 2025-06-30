@@ -22,9 +22,9 @@ urls:
 
 author_logo: profile.png
 author: Sam Aaron
-author_bio: Hi, my name is Sam Aaron.
+author_bio: "Father. Husband. Geek. Workaholic."
 author_email: "sam.aaron@micronauts.us"
-author_location: US
+author_location: "Connecticut, US"
 author_website_url: https://jedisamui.github.io
 typewrite-text: Add the Oscar goes to...
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
@@ -66,11 +66,51 @@ author_project_details:
                 project_url: https://hack4r.com
                 visibility: false
 
+# Certifications
+author_certification_details:
+              - badge_thumbnail: https://images.credly.com/size/100x100/images/e43c5ca4-ee14-4923-84dc-5756e507b4bb/blob
+                badge_title: VMware Certified Professional - VMware Cloud Foundation Architect 2024
+                badge_issue: "11/14/2024"
+                badge_url: https://www.credly.com/badges/f3d1a6d9-4ad5-45aa-8621-7f1c3cd22df5
+                visibility: true   
+              - badge_thumbnail: https://images.credly.com/size/100x100/images/be158cc0-6825-4ac2-a807-db2321c36f1d/image.png
+                badge_title: "VCF Livefire: Infrastructure and Automation 2024"
+                badge_issue: "09/23/2024"
+                badge_url: https://www.credly.com/badges/d02b3a29-f54a-4e58-aba3-c6a9927f075c
+                visibility: true   
+              - badge_thumbnail: https://images.credly.com/size/100x100/images/95f7fdf0-33ef-4504-a541-ff0ac56855a7/vmware_Milestone_IE_CM7.png
+                badge_title: VMware Certified Implementation Expert 7 - Cloud Management & Automation
+                badge_issue: "09/05/2020"
+                badge_url: https://www.credly.com/badges/51f9f1ed-c5fa-41f8-8c74-f8442ddc5c0f
+                visibility: true   
+              - badge_thumbnail: https://images.credly.com/size/100x100/images/40213d2b-201e-42af-925f-7724b31b4b70/vmware_cont_SME_DCV19.png
+                badge_title: Certification Subject Matter Expert - Data Center Virtualization 2019
+                badge_issue: "01/25/2019"
+                badge_url: https://www.credly.com/badges/51ff95ce-145d-45e7-9259-cc7fce648080
+                visibility: true
+              - badge_thumbnail: https://images.credly.com/size/100x100/images/01a25d04-0ad4-40f2-9cd3-f5ed755f7a6d/vmware_Cont_SME_CMA7.png
+                badge_title: Certification Subject Matter Expert - Cloud Management & Automation 7
+                badge_issue: "10/01/2018"
+                badge_url: https://www.credly.com/badges/414d7a93-b5cf-4ac5-b40b-3c179c3adbe2
+                visibility: true
+              - badge_thumbnail: https://images.credly.com/size/100x100/images/65d31fd2-06c2-47d7-9828-1a94bc43f7a7/vmware_Skill_VD_DC17.png
+                badge_title: VMware Validated Designs for Software-Defined Data Center 2017 [Retired]
+                badge_issue: "09/13/2017"
+                badge_url: https://www.credly.com/badges/6a5d8269-a64d-4c28-b8a5-9cc37b688bab
+                visibility: true  
+              - badge_thumbnail: https://images.credly.com/size/100x100/images/b4c043e3-b159-41aa-849f-f6e3f9060ca3/image.png
+                badge_title: Double VCP - Data Center Virtualization & Cloud Management
+                badge_issue: "09/16/2016"
+                badge_url: https://www.credly.com/badges/ac0c3401-3993-4ec2-8a58-2ea43d90ba72
+                visibility: true
+
+
+
 # social links
 #twitter_username: jedisamui
 github_username:  jedisamui
 #facebook_username: johndoe
-linkedin_username: j.sam.aaron
+linkedin_username: jsamaaron
 #behance_username: johndoe
 #instagram_username: johndoe
 #medium_username: johndoe
@@ -106,6 +146,7 @@ permalink: /:year/:month/:day/:title/
 show_author_work_experiences: true
 show_author_education_details: true
 show_author_project_details: true
+show_author_certification_details: true
 
 # pagination of posts
 paginate: 4
