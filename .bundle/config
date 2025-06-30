@@ -1,0 +1,5 @@
+---
+BUNDLE_BUILD__NIO4R: "--with-cflags=-Wno-incompatible-pointer-types"
+BUNDLE_BUILD__PUMA: "--with-cflags=-Wno-incompatible-pointer-types"
+BUNDLE_BUILD__GOOGLEPROTOBUF: "--with-cflags=-Wno-incompatible-pointer-types"
+BUNDLE_BUILD__FFI: "--with-cflags=-Wno-incompatible-pointer-types"
