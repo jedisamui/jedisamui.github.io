@@ -26,11 +26,17 @@ author_bio: "Father. Husband. Geek. Workaholic."
 author_email: "sam.aaron@micronauts.us"
 author_location: "Connecticut, US"
 author_website_url: https://jedisamui.github.io
-typewrite-text: Add the Oscar goes to...
+typewrite-text: All Other Duties As Assigned
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
+            - company_name: Entelligence
+              company_logo: entelligence_logo.png
+              company_url: https://entelligence.com
+              designation: Senior Consultant
+              description: Worked on vmware products; VCF, VCD, Aria Suite
+              visibility: true
             - company_name: Broadcom
               company_logo: broadcom.png
               company_url: https://broadcom.com
