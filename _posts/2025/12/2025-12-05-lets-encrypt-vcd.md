@@ -5,7 +5,7 @@ summary: "Using Let's Encrypt to automate SSL certificates for VCD"
 author: samui
 date: '2025-12-05'
 category: [daily, vcd]
-thumbnail: 
+thumbnail: /images/2025/12/publicaddresses.png 
 keywords: github, jeykyll
 permalink: /blog/lets-encrypt-vcd/
 usemathjax: true
