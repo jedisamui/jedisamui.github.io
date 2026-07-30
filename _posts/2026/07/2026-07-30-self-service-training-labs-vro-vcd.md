@@ -9,8 +9,6 @@ thumbnail: /images/2026/07/Student-Labs.png
 permalink: /blog/self-service-training-labs-vro-vcd/
 ---
 
-![Ten student lab vApps deployed and running in the training organization](/images/2026/07/Student-Labs.png)
-
 One of the recurring bottlenecks in running hands-on classes has been lab setup: someone technical has to manually spin up the right VMs before every class, for every student. The goal was to hand that responsibility to our instructors directly, without requiring them to understand vCloud Director at all.
 
 The result is a VCD Service Library built on vRealize (Aria) Orchestrator 8.18, targeting a vCloud Director 10.6.1 environment. Under the hood it's a JavaScript action library with modular actions for session handling, catalog lookups, vApp instantiation, task polling, and post-deployment network validation. Each action returns a Properties object so the workflow stays composable rather than one giant script.
