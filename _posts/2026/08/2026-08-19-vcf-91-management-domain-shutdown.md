@@ -5,7 +5,7 @@ summary: "A modular PowerCLI framework that walks a VCF 9.1 management domain th
 author: samui
 date: 2026-08-19
 category: [vcf, vcd, powershell, automation]
-thumbnail: /images/2026/08/vcf-9.1-shutdown-script.png
+thumbnail: /images/2026/08/vcf9.1-shutdown-script.png
 permalink: /blog/vcf-91-management-domain-shutdown/
 ---
 
