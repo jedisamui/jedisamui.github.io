@@ -9,9 +9,9 @@ Father. Husband. Geek. Workaholic. US Marine Corps Veteran.
 
 Sam Aaron is a Senior Consultant in the Professional Services Organization at Entelligence — though the title undersells the job. Day to day he operates as an **architect**, a **mentor** to newer consultants, and the team's **Lead Lab Engineer/Administrator**, building and running the lab environments on VMware Cloud Director.
 
-He's spent almost two decades in enterprise cloud automation and infrastructure, including almost eleven years at VMware, where he led cloud automation initiatives using VCF Automation (formerly Aria Automation & vRA) and designed scalable, multi-tenant environments with VMware Cloud Director (VCD). During his time at Broadcom, he authored several internal Knowledge Base articles that are still the reference material tenant and help-desk teams use to troubleshoot the platform today.
+He's spent almost two decades in enterprise cloud automation and infrastructure, including almost eleven years at VMware, where he led cloud automation initiatives using VCF Automation (formerly Aria Automation & vRA) and designed scalable, multi-tenant environments with VMware Cloud Director (VCD). During his time at Broadcom, he authored several internal Knowledge Base articles that are still the reference material help-desk teams use to troubleshoot the platform today.
 
-From 2015 to 2025, Sam served as a VMware Hands-On Lab (HOL) Captain and content author — helping build the automation, challenge, and troubleshooting labs featured at VMworld / VMware Explore and in global virtual forums, and mentoring the wider VMware community along the way. He's also a recognized contributor to VMware's certification exam program.
+From 2015 to 2025, Sam served as a VMware Hands-On Lab (HOL) Captain and content author — helping build the automation, challenge, and troubleshooting labs featured at VMworld / VMware Explore and in global virtual forums, and educating the wider VMware community along the way. He's also a recognized contributor to VMware's certification exam program.
 
 **No information provided here was reviewed or endorsed by VMware, Broadcom, Microsoft, or anyone else for that matter. All information here is opinion based on Sam's personal experience. Use this knowledge at your own risk.**
 
