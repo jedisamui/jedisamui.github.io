@@ -55,7 +55,7 @@ Highlights shown above — full certification history (25 credentials dating bac
 
 ## Outside of Work
 
-![Sam Aaron taking a selfie in a museum, holding a small handmade cat figure, in front of a large classical painting](/assets/img/about/museumsam.jpeg){: width="1000" height="750" .left .normal }
+![Sam Aaron taking a selfie in a museum, holding a small plush cat figure, in front of a large classical painting](/assets/img/about/museumsam.jpeg){: width="1000" height="750" .left .w-50 .normal }
 
 When he's not deep in a cloud console, Sam is usually building something with his hands: wiring up 3D-printed Star Wars droids into full animatronics, painting miniatures and models, assembling toys and action figures, or running the table for a Dungeons & Dragons campaign.
 
