@@ -69,7 +69,7 @@ When affected users reached out, Broadcom Customer Care responded with the follo
 
 Reading between the lines, the model going forward is gated access: the VDDK is apparently still being maintained and distributed, but only to organizations that hold verified customer entitlements or official Technology Alliance Partner status. The self-serve, "anyone with a free developer account can grab it" model that the ecosystem has relied on since VDDK's early days appears to be over, at least for now.
 
-![Diagram showing third-party backup/migration software linking against the VDDK library to read and write virtual disk blocks directly from vSphere storage](/images/2026/09/vddk-architecture.svg)
+![Diagram showing third-party backup/migration software linking against the VDDK library to read and write virtual disk blocks directly from vSphere storage](/images/2026/09/vddk-architecture.png)
 _Where the VDDK sits between third-party tooling and the underlying virtual disks_
 
 ## The Ramifications
